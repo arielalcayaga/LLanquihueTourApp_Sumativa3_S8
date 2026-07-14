@@ -50,3 +50,10 @@ git clone https://github.com/arielalcayaga/LLanquihueTourApp_Sumativa3_S8.git
 
 
 ---
+
+**Repositorio GitHub:** [https://github.com/arielalcayaga/LLanquihueTourApp_Sumativa3_S8.git]
+**Fecha de entrega:** \[13/07/2026]
+
+---
+
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Actividad Sumativa 3: Integrando interfaces, polimorfismo y estructuras dinámicas.
